@@ -1,0 +1,10 @@
+# Copy to data/prompt.txt
+
+Execute Shell Command in work directory: "execute_shell", args: "command": "<command>"
+
+# Copy to commands.py
+
+from shell.shell import execute_bash_command
+
+elif command_name == "execute_shell":
+    return execute_bash_command(arguments["command"], '/Users/joshuahill/Work/Auto-GPT')
