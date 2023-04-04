@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3e2a98d-62d6-4de4-a4b7-2a59e12bdb94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python-extra/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/commands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/data/prompt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/data/prompt.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680547909685</updated>
-      <workItem from="1680547910848" duration="15324000" />
+      <workItem from="1680547910848" duration="15653000" />
     </task>
     <servers />
   </component>
